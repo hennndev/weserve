@@ -5,6 +5,7 @@ import Choices from '@/app/components/Choices'
 import Showcase from '@/app/components/Showcase'
 import EcosystemInfo from '@/app/components/EcosystemInfo'
 import FAQ from '@/app/components/FAQ'
+import BoxBenefitInfo from '@/app/components/BoxBenefitInfo'
 
 const page = () => {
     return (
@@ -15,6 +16,7 @@ const page = () => {
             <EcosystemInfo/>
             <Showcase/>
             <FAQ/>
+            <BoxBenefitInfo/>
         </section>
     )
 }

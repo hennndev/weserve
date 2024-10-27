@@ -27,10 +27,10 @@ const Hero = () => {
 
                     <div className='flexx space-x-[20px]'>
                         <button className='bg-secondary text-white rounded-[100px] px-[40px] py-[16px] text-[18px] font-bold'>Try Free Trial</button>
-                        <div className='flexx space-x-[6px] bg-transparent cursor-pointer'>
+                        <button className='flexx space-x-[6px] bg-transparent cursor-pointer outline-none'>
                             <VscVmActive className='w-[24px] h-[24px] text-secondary'/>
                             <p className='text-secondary text-[16px] font-semibold'>Schedula a Demo</p>
-                        </div>
+                        </button>
                     </div>
                 </section>
                 

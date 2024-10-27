@@ -1,11 +1,11 @@
 "use client"
 import React from 'react'
 import Image from 'next/image'
-import sectionImage from '@/app/assets/images/section-image.png'
+import { TfiCrown } from "react-icons/tfi"
 import { RiCloudWindyLine } from "react-icons/ri"
-import { VscPulse, VscServer, VscVmActive, VscStarFull, VscCode } from "react-icons/vsc"
+import sectionImage from '@/app/assets/images/section-image.png'
 import { HiOutlinePresentationChartBar } from 'react-icons/hi'
-import { TfiCrown } from "react-icons/tfi";
+import { VscPulse, VscServer, VscVmActive, VscStarFull, VscCode } from "react-icons/vsc"
 
 
 
